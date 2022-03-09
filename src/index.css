@@ -53,3 +53,17 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+.error-msg {
+  background: #ff0053;
+  padding: 10px 5px;
+  color: white;
+  border: 1px solid black;
+  box-shadow: inset 1px 1px white;
+}
+
+.error-msg::before {
+  content: "!";
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0 20px;
+}
