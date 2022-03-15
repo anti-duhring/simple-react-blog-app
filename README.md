@@ -1,3 +1,20 @@
+# Simple blog app using React
+
+This is a small project - inspired by The Net Ninja -, for a simple blog app using React.
+
+# Funcionality
+![React-App](https://user-images.githubusercontent.com/99638905/158445996-c772bd1e-2703-4ed6-bc37-8f79074cee77.png)
+
+![React-App (2)](https://user-images.githubusercontent.com/99638905/158446006-1650efbe-d59a-4b42-989f-8a2571e96286.png)
+
+![React-App (1)](https://user-images.githubusercontent.com/99638905/158446014-1f6bfd2e-d071-4f79-b6f4-1e913232f59b.png)
+
+# Architecture 
+
+- React
+- Json
+- JavaScript, HTML and CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
